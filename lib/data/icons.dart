@@ -1,7 +1,6 @@
-import 'package:gojek/utils/colors.dart';
-import 'package:gojek/utils/theme.dart';
 
 import '../models/gojek_icon.dart';
+import '../utils/colors.dart';
 
 List<GojekIcon> gopayIcon = [
   GojekIcon(icon: 'pay', title: 'Bayar'),
